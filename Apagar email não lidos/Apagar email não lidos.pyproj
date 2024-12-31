@@ -11,6 +11,8 @@
     <OutputPath>.</OutputPath>
     <Name>Apagar email não lidos</Name>
     <RootNamespace>Apagar email não lidos</RootNamespace>
+    <InterpreterId>
+    </InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
